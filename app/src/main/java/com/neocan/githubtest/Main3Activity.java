@@ -12,9 +12,5 @@ public class Main3Activity extends AppCompatActivity {
         //테스트
         //테스트 추가
 
-        /**
-         *  RKSKEKFWEOFWEOFOWFEOIWEFOFOFIOWFOWIFOIWEFOIEFWOI
-         */
-        // TEST
     }
 }
